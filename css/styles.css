@@ -7,7 +7,9 @@ body {
 .top-container {
   background-color: #EAF6F6;
 }
-
+.header{
+  display: block;
+}
 
 .info{
   color: #40514E;
